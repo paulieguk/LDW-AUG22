@@ -1,4 +1,4 @@
-:::company-logo
+:::company-logo    
 :::
 
 # 001 - Welcome to the Lab Developer Workshop - August 2022
@@ -18,5 +18,5 @@ Please enter your initials here @lab.TextBox(initials)
 Press **Next** to continue
 
 
-:::compang-logo
+:::compang-logo    
 :::
