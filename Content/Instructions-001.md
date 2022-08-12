@@ -1,7 +1,7 @@
 :::company-logo
 :::
 
-# 001 - Welcome to the Lab Developer Workshop - August 20922
+# 001 - Welcome to the Lab Developer Workshop - August 2022
 ## Using Azure as a Skillable virtualization fabric
 
 ### Before you start
