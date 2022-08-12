@@ -22,7 +22,7 @@ This task will provide the instructions to build the VM Profile.  Items in *ital
  > - Username: ++labuser++    
  > - Password: ++Pa55w0rd1234++    
  
->[!TIP]If you wish to experiement with the Audio & Clipboard Redirect features please do.
+>[!TIP]The image name and version were values set in the Azure Compute Gallery which you saw in the video.
 
 #### Network Adapters
 
