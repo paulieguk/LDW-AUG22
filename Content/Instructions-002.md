@@ -28,7 +28,7 @@ This task will provide the instructions to build the VM Profile.  Items in *ital
 
 #### Network Adapters
 
-Click **+ Add Network Adapter** to add a network adapter.  No requirements to change anything else.
+> Click **+ Add Network Adapter** to add a network adapter.  No requirements to change anything else.
 
 >[!KNOWLEDGE] Notice the pages that are missing compared to Hyper-V or ESX VM's
 >[!IMAGE](images/002.jpg)
