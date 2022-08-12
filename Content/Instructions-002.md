@@ -1,5 +1,3 @@
-## Summary
-
 ### Task 1
 
 ---
