@@ -10,7 +10,7 @@ This task will provide the instructions to build the VM Profile.  Items in *ital
  - From the Admin page select **Create Virtual Machine Profile**
  [IMAGE](images/001.jpg)
  
- Complete the Virtual Machine Profile with the following settings:
+ - Complete the Virtual Machine Profile with the following settings:
  
  #### Basic Information:
  
