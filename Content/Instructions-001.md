@@ -1,5 +1,8 @@
-# 001 - Welcome to the Lab Developer Workshop - Month YYYY
-## Workshop Title
+:::company-logo
+:::
+
+# 001 - Welcome to the Lab Developer Workshop - August 20922
+## Using Azure as a Skillable virtualization fabric
 
 ### Before you start
 
@@ -13,3 +16,7 @@ Please enter your initials here @lab.TextBox(initials)
 
 -->
 Press **Next** to continue
+
+
+:::compang-logo
+:::
