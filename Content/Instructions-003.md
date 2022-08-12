@@ -14,7 +14,7 @@ This task will provide the instructions to build the Lab Profile including ading
  
  - Complete the Lab Profile with the following settings:
  
- #### Basic Information:
+#### Basic Information:
  
  > - Number: ++@lab.Variable(initials)
  > - Name: ++LP-Azure-VM++    
