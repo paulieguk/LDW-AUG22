@@ -32,7 +32,6 @@ This task will provide the instructions to build the Lab Profile including addin
 #### Network 
 
 > - Click **+ Add Network** to add a network adapter.  No requirements to change anything else but change the name to ++Enterprise LAN++
-> - If you wish to change the IP Address range you can also do that for example ++172.31.0.0/24++ or ++192.168.100.0/26++ as examples.
 
 #### Virtual Machines
 
