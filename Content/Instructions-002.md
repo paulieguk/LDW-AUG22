@@ -10,6 +10,7 @@ This task will provide the instructions to build the VM Profile.  Items in *ital
  
  - Complete the Virtual Machine Profile with the following settings:
  
+ 
  #### Basic Information:
  
  > - Name: ++@lab.Variable(initials)-Azure-VM++    
