@@ -8,7 +8,7 @@ In this task you will launch the Lab Profile and have a test.  Some tasks to exp
 - Launch browsers to confirm Internet access
 - Notice the Notepad++ Application on the desktop, this could be any additional application (this is because we captured the image)
 
-![!ALERT] You might notice our lab client opens before the VM is ready so you might need to Reconnect.  This can be offset using a delay time on the Advance page of the Lab Profile.
+>[!ALERT] You might notice our lab client opens before the VM is ready so you might need to Reconnect.  This can be offset using a delay time on the Advance page of the Lab Profile.
 
 - Launch the Lab Profile have a review then end the Lab Profile when you have finsihed exploring.
 
