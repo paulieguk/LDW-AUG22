@@ -32,5 +32,7 @@ This task will provide the instructions to build the VM Profile.  Items in *ital
 >[!KNOWLEDGE] Notice the pages that are missing compared to Hyper-V or ESX VM's    
 >![Hyper-V Lab Profile Example](images/002.jpg)
 
+- Save the Virtual Machine Profile
+
 Press **Next** to continue
  
