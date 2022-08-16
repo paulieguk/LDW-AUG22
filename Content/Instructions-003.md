@@ -7,8 +7,7 @@
 This task will provide the instructions to build the Lab Profile including adding the VM Profile.
 
  - From the main Skillable Studio menu bar select **Dashboard**
- - From the new Skillable Studio Dashboard **Create**
- [IMAGE](images/003.jpg)
+ - From the new Skillable Studio Dashboard clieck [**Create New**](images/003.jpg)
  
  - From the top right of the Template Gallery click **+ Create Custom Environment**
  
