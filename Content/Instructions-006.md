@@ -16,11 +16,11 @@ This task will provide the instructions to build the VM Profile.  Items in *ital
  > - Series: LDW-AUG22    
  > - Platform: *AWS*    
  > - *Machine Type: t2.medium (2 Cores, 4GB Memory)*    
- > - *Machine Image Image Name: ++WinServer-2019-Browser Update and Notepad plus plus++*    
+ > - *Machine Image Image Name: ++Windows-Server-2019-With-Apps++*    
  > - *Location/Region: US East (Virgina)*
- > - *Machine Owner Account: ++701100994537++*    
- > - Username: ++Administratpr++    
- > - Password: ++6GL$P?qF=(TywTC8zBrs*zo96s2vu7=(++    
+ > - *Machine Owner Account: ++812627450842++*    
+ > - Username: ++LabUser++    
+ > - Password: ++Pa55w0rd!++    
  
 >[!TIP]The image name was set when creating the AMI as shown in the video.
 
