@@ -30,7 +30,7 @@ This task will provide the instructions to build the VM Profile.  Items in *ital
 > - Click **+ Add Network Adapter** to add a network adapter.  No requirements to change anything else.
 
 >[!KNOWLEDGE] Notice the pages that are missing compared to Hyper-V or ESX VM's    
->![Hyper-V Lab Profile Example](images/002.jpg)
+>![Hyper-V/ESX Lab Profile Example](images/002.jpg)
 
 - Save the Virtual Machine Profile
 
