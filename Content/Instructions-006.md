@@ -25,7 +25,7 @@ This task will provide the instructions to build the VM Profile.  Items in *ital
 >[!TIP]The image name was set when creating the AMI as shown in the video.
 
 >[!KNOWLEDGE] Notice the pages that are missing compared to Hyper-V or ESX VM's    
->![Hyper-V Lab Profile Example](images/002.jpg)
+>![Hyper-V Lab Profile Example](images/004.jpg)
 
 Press **Next** to continue
  
