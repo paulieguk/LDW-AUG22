@@ -39,5 +39,7 @@ This task will provide the instructions to build the Lab Profile including addin
 
 Click **Save** to save the Lab Profile
 
+<[!HELP]The pop up message is just confirming the console will not be accessible.  That is ok in this scenario.  Click **OK** to continue
+
 Press **Next** to continue
  
