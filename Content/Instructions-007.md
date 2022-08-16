@@ -34,7 +34,7 @@ This task will provide the instructions to build the Lab Profile including addin
 
 > - Click **+ Add Virtual Machine**
 > - Press **Search**
-> - Select the virtual machine @lab.Variable(initials)-AWS-VM from the list.  Click **OK**
+> - Select the virtual machine **@lab.Variable(initials)-AWS-VM** from the list.  Click **OK**
 > - Cloud Resource Group: *Stack1*
 
 Click **Save** to save the Lab Profile
