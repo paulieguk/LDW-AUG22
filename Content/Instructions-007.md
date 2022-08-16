@@ -16,7 +16,7 @@ This task will provide the instructions to build the Lab Profile including addin
  
 #### Basic Information:
  
- > - Number: ++@lab.Variable(initials)
+ > - Number: ++@lab.Variable(initials)++
  > - Name: ++LP-AWS-VM++    
  > - Series: LDW-AUG22    
  > - Virtualization Platform: *AWS*    
