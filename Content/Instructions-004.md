@@ -19,5 +19,5 @@ In this task you will launch the Lab Profile and have a test.  Some tasks to exp
 > - Notice in the Script 1 Target it lists the VM Name.  Cloud based VM's also support Skillabes Automated Activity capabilities.
 > - Cancel and close out the diaglogs and close the instructions editor.
 
-Press **Endt** to complete this lab
+Press **End** to complete this lab
  
