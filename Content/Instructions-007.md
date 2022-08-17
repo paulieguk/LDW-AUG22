@@ -24,7 +24,7 @@ This task will provide the instructions to build the Lab Profile including addin
 #### Cloud
 
 > - Cloud Platform: AWS    
-> - Subscription Pool: Career RockIT (Skillable)    
+> - Subscription Pool: AWS Career RockIT (Skillable)    
 > - Datacenter Availability: US East (N. Virginia)    
 > - Remove User1 (**X** on the right hand side)
 > - Resource Groups: **+ Add Stack Deployment**    
